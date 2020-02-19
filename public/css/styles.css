@@ -40,11 +40,11 @@ input {
 button {
     cursor: pointer;
     padding: 12px;
-    background: #7C5CBF;
+    background-color: #7C5CBF;
     border: none;
     color: white;
     font-size: 16px;
-    transition: background .3s ease;
+    transition: background-color .3s ease;
 }
 
 button:hover {
